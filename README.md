@@ -8,7 +8,7 @@ I am not the owner of the original Deftones website. This project was created pu
 
 All content, branding, and assets related to Deftones belong to their respective owners. This site is not intended for commercial use or to infringe on any copyrights.  
 
-##! Purpose !
+## ! Purpose !
 This project was built to:  
 - Showcase web development skills  
 - Experiment with design and functionality  
